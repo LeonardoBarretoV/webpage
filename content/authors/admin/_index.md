@@ -3,27 +3,27 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: University of Minnesota
     year: 2025
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.A. in Economics
+    institution: University of Minnesota
+    year: 2023
+  - course: M.A. in Economics
+    institution: Universidad de Los Andes
+    year: 2018
 email: ""
 first_name: Leonardo
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Macroeconomics
+- International Finance
+- Monetary Economics
 last_name: Barreto
 organizations:
 - name: University of Minnesota
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,8 +49,10 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Leonardo Barreto
 ---
 
-Leonardo Barreto is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome! I am a Ph.D. candidate in Economics at University of Minnesota, and a Research Analyst at the Federal Reserve Bank of Minneapolis. 
+
+My research interests are in macroeconomics, international finance and monetary economics. 
 {style="text-align: justify;"}
