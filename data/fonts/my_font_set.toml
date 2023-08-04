@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+google_fonts = "family=Source+Serif+4:opsz@8..60"
+
+# Font families
+heading_font = "Source Serif 4"
+body_font = "Source Serif 4"
+nav_font = "Source Serif 4"
+mono_font = "Source Serif 4"

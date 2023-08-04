@@ -3,7 +3,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: Ph.D. in Economics
+  - course: Ph.D. in Economics (Expected)
     institution: University of Minnesota
     year: 2025
   - course: M.A. in Economics
@@ -12,6 +12,9 @@ education:
   - course: M.A. in Economics
     institution: Universidad de Los Andes
     year: 2018
+  - course: B.A. in Economics
+    institution: Universidad de Los Andes
+    year: 2014    
 email: ""
 first_name: Leonardo
 highlight_name: true
@@ -22,7 +25,7 @@ interests:
 last_name: Barreto
 organizations:
 - name: University of Minnesota
-  url: https://www.stanford.edu/
+  url: https://cla.umn.edu/economics
 role: Ph.D. Candidate in Economics
 social:
 - icon: envelope
@@ -33,16 +36,13 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/leo_barretov
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3074214
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/LeonardoBarretoV
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
@@ -52,7 +52,7 @@ superuser: true
 title: Leonardo Barreto
 ---
 
-Welcome! I am a Ph.D. candidate in Economics at University of Minnesota, and a Research Analyst at the Federal Reserve Bank of Minneapolis. 
+I am a Ph.D. candidate in Economics at [**University of Minnesota**](https://cla.umn.edu/economics), and a Research Analyst at the [**Federal Reserve Bank of Minneapolis**](https://www.minneapolisfed.org/economic-research/economists). 
 
 My research interests are in macroeconomics, international finance and monetary economics. 
 {style="text-align: justify;"}
