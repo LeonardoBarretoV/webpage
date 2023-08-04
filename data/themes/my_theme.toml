@@ -3,27 +3,25 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "rgb(170, 0, 0)"
 
   # Menu
-  menu_primary = "rgb(0, 0, 0)"
-  menu_text = "rgb(255, 255, 255)"
-  menu_text_active = "rgb(209, 45, 32)"
-  #menu_title = "#2b2b2b"
-
-  # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
-  
-  link = "rgb(209, 45, 32)"
-  link_hover = "rgb(209, 45, 32)"
+  menu_primary = "#000"
+  menu_text = "#fff"
+  menu_text_active = "rgb(170, 0, 0)"
+  menu_title = "#000"
 
 [dark]
   # Primary
-  menu_primary = "rgb(0, 0, 0)"
-  menu_text = "rgb(255, 255, 255)"
-  menu_text_active = "rgb(209, 45, 32)"  
-  primary = "#bbdefb"
+  primary = "rgb(170, 0, 0)"
 
-  link = "rgb(209, 45, 32)"
-  link_hover = "rgb(209, 45, 32)"
+  # Menu
+  menu_primary = "#000"
+  menu_text = "#fff"
+  menu_text_active = "rgb(170, 0, 0)"
+  menu_title = "#000"
+
+  # Backgrounds
+  background = "#000"
+  home_section_odd = "#000"
+  home_section_even = "#000"
