@@ -58,11 +58,6 @@ header:
 footer:
   copyright:
     notice: '© {year} Leonardo Barreto'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
 
 # Localization
 
