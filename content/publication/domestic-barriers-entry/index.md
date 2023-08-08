@@ -8,10 +8,10 @@ authors:
 - admin
 - Alan Finkelstein-Shapiro
 - Victoria Nuguer
-date: "2023-02-01T00:00:00Z"
+date: "2023-08-01T00:00:00Z"
 #doi: "https://doi.org/10.1016/j.jedc.2023.104709"
 featured: true
-publishDate: "2023-02-01T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["2"]
 publication: In *Journal of Economic Dynamics and Control*
 publication_short: In *Journal of Economic Dynamics and Control*
