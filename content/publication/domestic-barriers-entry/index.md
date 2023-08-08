@@ -19,8 +19,12 @@ tags:
 - Emerging Economies
 title: Domestic barriers to entry and external vulnerability in emerging economies
 links:
-- name: Slides
-  url: pdf/slides_official.pdf
+- name: Paper
+  url: "https://doi.org/10.1016/j.jedc.2023.104709"
+- name: PDF
+  url: pdf/JEDC_domestic_barriers.pdf
+- name: Code
+  url: "https://doi.org/10.1016/j.jedc.2023.104709"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
