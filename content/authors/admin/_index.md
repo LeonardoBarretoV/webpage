@@ -53,5 +53,5 @@ title: Leonardo Barreto
 
 I am a Ph.D. candidate in Economics at [**University of Minnesota**](https://cla.umn.edu/economics), and a Research Analyst at the [**Federal Reserve Bank of Minneapolis**](https://www.minneapolisfed.org/economic-research/economists). 
 
-My research interests are in macroeconomics, international finance and monetary economics. 
+My areas of interests are macroeconomics, international finance and monetary economics. 
 {style="text-align: justify;"}
