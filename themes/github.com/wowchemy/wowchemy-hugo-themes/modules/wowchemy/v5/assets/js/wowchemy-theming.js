@@ -11,7 +11,7 @@ import {fadeIn} from './wowchemy-animation';
 const body = document.body;
 
 function getThemeMode() {
-  return parseInt(localStorage.getItem('wcTheme') || 2);
+  return parseInt(localStorage.getItem('wcTheme') || 0);
 }
 
 function canChangeTheme() {
@@ -33,7 +33,8 @@ function initThemeVariation() {
   console.debug('User theming enabled.');
 
   let isDarkTheme;
-  let currentThemeMode = getThemeMode();
+  //let currentThemeMode = getThemeMode(); I changed this line
+  let currentThemeMode = 0;
   console.debug(`User's theme variation: ${currentThemeMode}`);
 
   switch (currentThemeMode) {
@@ -46,7 +47,8 @@ function initThemeVariation() {
     default:
       if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         // The visitor prefers dark themes and switching to the dark variation is allowed by admin.
-        isDarkTheme = true;
+        // isDarkTheme = true; I changed this line
+        isDarkTheme = false;
       } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
         // The visitor prefers light themes and switching to the light variation is allowed by admin.
         isDarkTheme = false;
