@@ -10,4 +10,4 @@ share: false
 title: Privacy Policy
 ---
 
-The views expressed here are those of the authors and not necessarily those of the Federal Reserve Bank of Minneapolis or the Federal Reserve System
+The views expressed here are those of the author and not necessarily those of the Federal Reserve Bank of Minneapolis or the Federal Reserve System

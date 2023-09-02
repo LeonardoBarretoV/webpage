@@ -1,0 +1,29 @@
+Update GIT token:
+1. Go to:
+https://github.com/settings/tokens/1276390802/regenerate
+2. Hit "Update token"
+
+To check the current token in RStudio
+1. Open RStudio
+2. Type
+install.packages("gitcreds")
+library(gitcreds)
+gitcreds_set()
+3. Choose option 3
+See the password/token
+
+
+If 
+
+1. Open the Terminal
+2. Check cd typing
+cd
+3. Type
+cd OneDrive
+cd Documents
+cd webpage
+
+4. Type
+git checkout main
+git reset --hard origin/main
+git push --force origin main
