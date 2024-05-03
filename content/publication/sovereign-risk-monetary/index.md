@@ -1,26 +1,27 @@
 ---
-abstract: This paper studies official sovereign debt empirically and theoretically. We document that official sovereign debt is more than half of the total sovereign debt in emerging markets, and tends to rise during default episodes and downturns, much more than debt with private creditors. We develop a sovereign default model with official and private debt. A fraction of the defaulted debt accumulates during default episodes, which resolve when the sovereign pays back its accrued obligations. Official debt is longer term than private debt and contains a collateral value that depends on the country’s resources. Our model is able to rationalize the fact that official debt is sizable and is used more heavily during default episodes and downturns.
+abstract: This paper explores the macroeconomic implications of tight global financial conditions in a small open economy New Keynesian model with sovereign default. My analysis shows that the interplay between the government incentives to repay the debt and inflation during periods of high world interest rates has distinct implications for monetary policy. I show that a monetary easing may emerge when a world interest rate hike induces a substantial increase in the probability of default, depressing domestic demand and leading firms to reduce inflation. This default amplification channel complements the expenditure-switching and expenditure-reducing channels found in standard open economy models, and rationalizes why emerging economies might reduce monetary policy rates when the Federal Reserve tightens. An increase in sovereign risk reduces aggregate domestic demand beyond these conventional channels, leading a real exchange rate depreciation to be contractionary for output.
 author_notes:
 - Federal Reserve Bank of Minneapolis
 - University of Minnesota
 authors:
-- Cristina Arellano
 - admin
-date: "2023-02-01T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
 #doi: "https://doi.org/10.1016/j.jedc.2023.104709"
 featured: true
-publishDate: "2023-02-01T00:00:00Z"
+publishDate: "2024-04-01T00:00:00Z"
 publication_types: ["3"]
-summary: This paper studies official sovereign debt empirically and theoretically. We document that official sovereign debt is more than half of the total sovereign debt in emerging markets, and tends to rise during default episodes and downturns, much more than debt with private creditors. We develop a sovereign default model with official and private debt. A fraction of the defaulted debt accumulates during default episodes, which resolve when the sovereign pays back its accrued obligations. Official debt is longer term than private debt and contains a collateral value that depends on the country’s resources. Our model is able to rationalize the fact that official debt is sizable and is used more heavily during default episodes and downturns.
+summary: This paper explores the macroeconomic implications of tight global financial conditions in a small open economy New Keynesian model with sovereign default. My analysis shows that the interplay between the government incentives to repay the debt and inflation during periods of high world interest rates has distinct implications for monetary policy. I show that a monetary easing may emerge when a world interest rate hike induces a substantial increase in the probability of default, depressing domestic demand and leading firms to reduce inflation. This default amplification channel complements the expenditure-switching and expenditure-reducing channels found in standard open economy models, and rationalizes why emerging economies might reduce monetary policy rates when the Federal Reserve tightens. An increase in sovereign risk reduces aggregate domestic demand beyond these conventional channels, leading a real exchange rate depreciation to be contractionary for output.
 tags:
 - Sovereign Debt
-- Partial Default
+- Monetary Policy
 - Business Cycles
 - Emerging Economies
-title: Official sovereign debt
+title: Sovereign default risk, monetary policy and global financial conditions
 links:
+- name: PDF
+  url: pdf/sovereign-risk-monetary.pdf
 - name: Slides
-  url: pdf/slides_official.pdf
+  url: pdf/slides-sovereign-risk-monetary.pdf
 url_code: ""
 url_dataset: ""
 url_pdf: ""
