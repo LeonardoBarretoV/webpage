@@ -4,7 +4,7 @@ education:
   courses:
   - course: Ph.D. in Economics (Expected)
     institution: University of Minnesota
-    year: 2025
+    year: 2026
   - course: M.A. in Economics
     institution: University of Minnesota
     year: 2023
