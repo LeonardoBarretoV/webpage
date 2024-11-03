@@ -12,7 +12,18 @@ sections:
       featured_only: true
       folders:
       - publication
-    title: Research
+    title: Publications
+  design:
+    columns: "2"
+    view: card
+  id: publications  
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - papers
+    title: Working Papers
   design:
     columns: "2"
     view: card

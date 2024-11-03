@@ -27,3 +27,7 @@ cd webpage
 git checkout main
 git reset --hard origin/main
 git push --force origin main
+
+5. To make changes in R
+blogdown::build_site(local=TRUE)
+blogdown::serve_site()
