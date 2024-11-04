@@ -31,3 +31,7 @@ git push --force origin main
 5. To make changes in R
 blogdown::build_site(local=TRUE)
 blogdown::serve_site()
+
+6. Change CV here:
+
+C:\Users\Leonardo Barreto\OneDrive\Documents\webpage\themes\starter-hugo-academic\static\uploads
