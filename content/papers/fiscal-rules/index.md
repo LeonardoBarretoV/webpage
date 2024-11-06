@@ -21,7 +21,7 @@ tags:
 - Fiscal Rules
 - COVID-19
 - Emerging Economies
-title: Strategic enforcement of fiscal rules under sovereign risk
+title: Strategic Enforcement of Fiscal Rules under Sovereign Risk
 links:
 - name: PDF
   url: pdf/fiscal-rules.pdf

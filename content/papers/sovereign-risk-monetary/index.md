@@ -15,7 +15,7 @@ tags:
 - Monetary Policy
 - Business Cycles
 - Emerging Economies
-title: Sovereign default risk, monetary policy and global financial conditions
+title: Sovereign Default Risk, Monetary Policy and Global Financial Conditions
 links:
 - name: PDF
   url: pdf/sovereign-risk-monetary.pdf

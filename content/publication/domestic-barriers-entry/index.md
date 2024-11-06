@@ -21,7 +21,7 @@ tags:
 - Firm Entry
 - International Propagation
 - Emerging Economies
-title: Domestic barriers to entry and external vulnerability in emerging economies
+title: Domestic Barriers to Entry and External Vulnerability in Emerging Economies
 links:
 - name: Paper
   url: "https://doi.org/10.1016/j.jedc.2023.104709"

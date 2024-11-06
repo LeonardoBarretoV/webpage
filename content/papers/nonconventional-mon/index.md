@@ -22,5 +22,5 @@ tags:
 - Monetary Policy
 - Financial Crises
 - Regime Switching
-title: Nonconventional monetary policy in a regime-switching model with endogenous financial crises
+title: Nonconventional Monetary Policy in a Regime-Switching Model with Endogenous Financial Crises
 ---

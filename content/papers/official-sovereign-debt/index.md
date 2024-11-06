@@ -17,7 +17,7 @@ tags:
 - Partial Default
 - Business Cycles
 - Emerging Economies
-title: Official sovereign debt
+title: Official Sovereign Debt
 links:
 - name: PDF
   url: pdf/official_ab.pdf
