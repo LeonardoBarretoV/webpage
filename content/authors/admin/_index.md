@@ -32,12 +32,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/leo_barretov
+#- display:
+#    header: true
+#  icon: twitter
+#  icon_pack: fab
+#  label: Follow me on Twitter
+#  link: https://twitter.com/leo_barretov
 - icon: graduation-cap
   icon_pack: fas
   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3074214
