@@ -55,9 +55,9 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Leonardo Barreto'
+#footer:
+#  copyright:
+#    notice: '© {year} Leonardo Barreto'
 
 # Localization
 
