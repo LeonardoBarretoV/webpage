@@ -121,3 +121,11 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+  
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
+  - _target:
+      path: /papers/**
+    share: false      

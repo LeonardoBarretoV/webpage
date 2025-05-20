@@ -23,4 +23,5 @@ summary: 'This paper develops a regime-switching New Keynesian model for a small
 #- Financial Crises
 #- Regime Switching
 title: Nonconventional Monetary Policy in a Regime-Switching Model with Endogenous Financial Crises
+share: false
 ---

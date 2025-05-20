@@ -21,9 +21,10 @@ links:
   url: pdf/sovereign-risk-monetary.pdf
 - name: Slides
   url: pdf/slides-sovereign-risk-monetary.pdf
-url_code: ""
-url_dataset: ""
-url_pdf: ""
-url_slides: ""
+#url_code: ""
+#url_dataset: ""
+#url_pdf: ""
+#url_slides: ""
+share: false
 ---
 
