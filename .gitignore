@@ -7,3 +7,6 @@ Thumbs.db
 .hugo_build.lock
 /public/
 /resources/
+.Rdata
+.httr-oauth
+.quarto

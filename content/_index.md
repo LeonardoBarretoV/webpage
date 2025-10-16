@@ -20,13 +20,15 @@ sections:
 - block: collection
   content:
     filters:
-      featured_only: true
+      #featured_only: true
       folders:
       - papers
+    count: 0  
     title: Working Papers
   design:
     columns: "2"
     view: card
+    show_more_link: false
   id: featured
 #- block: collection
 #  content:
