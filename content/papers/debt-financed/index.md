@@ -16,9 +16,9 @@ summary: This paper studies the welfare consequences of the debt-financed fiscal
 #- Business Cycles
 #- Emerging Economies
 title: Debt-Financed Fiscal Stimulus, Heterogeneity, and Welfare (Job Market Paper)
-#links:
-#- name: PDF
-#  url: pdf/official_ab.pdf
+links:
+- name: PDF
+  url: pdf/Barreto_JMP.pdf
 #- name: Slides
 #  url: pdf/slides_official.pdf
 url_code: ""
