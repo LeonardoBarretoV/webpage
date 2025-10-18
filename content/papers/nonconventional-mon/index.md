@@ -7,6 +7,7 @@ authors:
 date: "2018-06-07T00:00:00Z"
 doi: ""
 featured: true
+robots: "noindex, nofollow"
 links:
 #- name: Paper
 #  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3215457#"

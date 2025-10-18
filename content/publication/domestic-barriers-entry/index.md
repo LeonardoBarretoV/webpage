@@ -11,6 +11,7 @@ authors:
 date: "2023-09-01T00:00:00Z"
 #doi: "https://doi.org/10.1016/j.jedc.2023.104709"
 featured: true
+robots: "noindex, nofollow"
 publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["2"]
 publication: In **Journal of Economic Dynamics and Control, Vol. 154**
