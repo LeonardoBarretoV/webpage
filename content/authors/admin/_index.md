@@ -20,8 +20,8 @@ highlight_name: true
 interests:
 - Macroeconomics
 - International Economics
-- Sovereign Debt and Default
 - Monetary Economics
+- Sovereign Debt and Default
 - Heterogeneity
 last_name: Barreto
 organizations:
@@ -56,7 +56,7 @@ title: Leonardo Barreto
 
 I am a Ph.D. candidate in Economics at [**University of Minnesota**](https://cla.umn.edu/economics), and a Research Analyst at the [**Federal Reserve Bank of Minneapolis**](https://www.minneapolisfed.org/economic-research/economists). 
 
-**I will be on the 2025/26 job market**
+**I will be on the 2025/26 job market.**
 
 My research focuses on macroeconomics, international economics, and monetary economics.
 
