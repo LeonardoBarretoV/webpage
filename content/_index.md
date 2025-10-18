@@ -50,11 +50,11 @@ sections:
       city: Minneapolis
       country: United States
       country_code: US
-      postcode: "55401"
+      postcode: "55455"
       region: MN
-      street: 90 Hennepin Ave
+      street: 1925 Fourth Street South
     #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: cl.barreto15@gmail.com
+    email: barre843@umn.edu
     #form:
     #  formspree:
     #    id: null
