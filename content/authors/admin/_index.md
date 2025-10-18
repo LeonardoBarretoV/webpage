@@ -38,15 +38,16 @@ social:
 #  icon_pack: fab
 #  label: Follow me on Twitter
 #  link: https://twitter.com/leo_barretov
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3074214
+#- icon: graduation-cap
+#  icon_pack: fas
+#  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3074214
 - icon: github
   icon_pack: fab
   link: https://github.com/LeonardoBarretoV
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  #link: uploads/resume_new.pdf
+  link: cv/resume_new.pdf
 status:
   icon: ☕️
 superuser: true

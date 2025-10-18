@@ -23,7 +23,7 @@ summary: Emerging economies (EMEs) exhibit high regulatory costs of firm creatio
 #- Emerging Economies
 title: Domestic Barriers to Entry and External Vulnerability in Emerging Economies
 links:
-- name: Paper
+- name: Journal link
   url: "https://doi.org/10.1016/j.jedc.2023.104709"
 - name: PDF
   url: pdf/JEDC_domestic_barriers.pdf

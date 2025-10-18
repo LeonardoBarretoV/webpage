@@ -8,8 +8,8 @@ date: "2018-06-07T00:00:00Z"
 doi: ""
 featured: true
 links:
-- name: Paper
-  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3215457#"
+#- name: Paper
+#  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3215457#"
 - name: PDF
   url: pdf/CEDE_masters_thesis.pdf
 publication: In *Documentos CEDE*

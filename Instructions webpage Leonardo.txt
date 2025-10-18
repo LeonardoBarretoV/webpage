@@ -35,3 +35,10 @@ blogdown::serve_site()
 6. Change CV here:
 
 C:\Users\Leonardo Barreto\OneDrive\Documents\webpage\themes\starter-hugo-academic\static\uploads
+
+New deployment!
+
+git add .
+git commit -m "Update site"
+git push origin main
+
