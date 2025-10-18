@@ -60,5 +60,5 @@ I am a Ph.D. candidate in Economics at [**University of Minnesota**](https://cla
 
 My research focuses on macroeconomics, international economics, and monetary economics.
 
-My advisors are [**Manuel Amador**](https://manuelamador.me/), [**Tim Kehoe**](http://users.econ.umn.edu/~tkehoe/) and [**Cristina Arellano**](https://www.cristinaarellano.com/).
+My advisors are [**Manuel Amador**](https://manuelamador.me/), [**Tim Kehoe**](http://users.econ.umn.edu/~tkehoe/), and [**Cristina Arellano**](https://www.cristinaarellano.com/).
 {style="text-align: justify;"}
