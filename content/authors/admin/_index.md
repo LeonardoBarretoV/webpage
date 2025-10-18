@@ -56,7 +56,7 @@ title: Leonardo Barreto
 
 I am a Ph.D. candidate in Economics at [**University of Minnesota**](https://cla.umn.edu/economics), and a Research Analyst at the [**Federal Reserve Bank of Minneapolis**](https://www.minneapolisfed.org/economic-research/economists). 
 
-**I will be on the job market in 2025–2026.**
+**I will be on the 2025/26 job market**
 
 My research focuses on macroeconomics, international economics, and monetary economics.
 
