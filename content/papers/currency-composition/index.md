@@ -20,7 +20,7 @@ summary: This paper explores the relationship between the currency composition a
 #- Currency Composition
 #- Financial Repression
 #- Emerging Economies
-title: Sovereign Debt, Currency Composition and Financial Repression
+title: Sovereign Debt, Currency Composition, and Financial Repression
 links:
 #- name: PDF
 #  url: pdf/sovereign-risk-monetary.pdf
