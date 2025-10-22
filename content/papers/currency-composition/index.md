@@ -1,5 +1,5 @@
 ---
-abstract: This paper explores the relationship between the currency composition and bondholder composition of sovereign debt, focusing on the government's incentives to issue debt denominated in local currency (LC) or foreign currency (FC). We introduce a framework that analyzes the trade-offs that governments face when domestic and foreign demand for bonds react differently to policy changes. The main result is that the government considers the effect on bondholder composition when choosing the currency of its debt. Domestic investors' demand for LC bonds is higher due to the insurance provided against distortionary taxes.
+abstract: This paper examines the interaction between the currency denomination of sovereign debt and the composition of its holders. We document that, in emerging economies, local-currency bonds constitute the main instrument of government debt and are predominantly held by domestic investors. We develop a framework that characterizes the trade-offs governments face when domestic and foreign demand for bonds respond differently to policy changes. Domestic investors prefer local-currency bonds because these assets provide insurance against distortionary taxation. The government internalizes how currency denomination influences domestic demand and default risk, generating a novel endogenous link between the composition of bondholders and the choice of currency. Even abstracting from the standard hedging benefits against output fluctuations, it remains optimal for the government to issue local-currency debt to stimulate domestic demand, consistent with empirical evidence. Finally, we show that imposing minimum domestic holdings of foreign-currency bonds through financial repression can implement the optimal allocation without relying on local-currency issuance.
 author_notes:
 - University of Minnesota
 - University of Minnesota
@@ -14,7 +14,7 @@ featured: true
 robots: "noindex, nofollow"
 publishDate: "2024-09-13T00:00:00Z"
 publication_types: ["3"]
-summary: This paper explores the relationship between the currency composition and bondholder composition of sovereign debt, focusing on the government's incentives to issue debt denominated in local currency (LC) or foreign currency (FC). We introduce a framework that analyzes the trade-offs that governments face when domestic and foreign demand for bonds react differently to policy changes. The main result is that the government considers the effect on bondholder composition when choosing the currency of its debt. Domestic investors' demand for LC bonds is higher due to the insurance provided against distortionary taxes.
+summary: This paper examines the interaction between the currency denomination of sovereign debt and the composition of its holders. We document that, in emerging economies, local-currency bonds constitute the main instrument of government debt and are predominantly held by domestic investors. We develop a framework that characterizes the trade-offs governments face when domestic and foreign demand for bonds respond differently to policy changes. Domestic investors prefer local-currency bonds because these assets provide insurance against distortionary taxation. The government internalizes how currency denomination influences domestic demand and default risk, generating a novel endogenous link between the composition of bondholders and the choice of currency. Even abstracting from the standard hedging benefits against output fluctuations, it remains optimal for the government to issue local-currency debt to stimulate domestic demand, consistent with empirical evidence. Finally, we show that imposing minimum domestic holdings of foreign-currency bonds through financial repression can implement the optimal allocation without relying on local-currency issuance.
 #tags:
 #- Sovereign Debt
 #- Currency Composition
@@ -22,8 +22,8 @@ summary: This paper explores the relationship between the currency composition a
 #- Emerging Economies
 title: Sovereign Debt, Currency Composition, and Financial Repression
 links:
-#- name: PDF
-#  url: pdf/sovereign-risk-monetary.pdf
+- name: PDF
+  url: pdf/currency_composition.pdf
 - name: Slides
   url: pdf/slides-currency.pdf
 url_code: ""
